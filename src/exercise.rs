@@ -172,7 +172,6 @@ fn clean() {
 #[cfg(test)]
 mod test {
     use super::*;
-    // use std::path::Path;
 
     #[test]
     fn test_finished_exercise() {
